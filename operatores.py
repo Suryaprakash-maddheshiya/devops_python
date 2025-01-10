@@ -18,4 +18,6 @@ a is b   # it give false  , a=4, b=a it gives true
 
 #bitwise operator //operations at bit level.  manipulate individuals bits with integar
 
+ 
+
 
